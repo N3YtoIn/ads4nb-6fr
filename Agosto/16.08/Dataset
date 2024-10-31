@@ -1,0 +1,25 @@
+1. Dataset
+
+Estrutura
+
+1a linha - cabeçalho (nomes das colunas)
+- header
+1as colunas - variáveis X
+- Features (características)
+Última coluna - variável Y(Resposta)
+- Target (alvo)
+
+Dentre as variáveis:
+- Num inteiras
+- Num reais
+- Caracteres
+- Dummy (true/false)
+
+
+2. OLTP x OLAP
+Transactional Processing (Sistemas da Empresas)
+Update/Delete/Insert
+
+Analitycal Processing (Bases Analíticas)
+Select
+
